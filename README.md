@@ -12,16 +12,15 @@ También me interesa utilizar las observaciones de QALY y DALY para evaluar la c
 Finalmente, si genero una población con un rango de edad amplio, probablemente podría obtener varias observaciones a lo largo de la vida de cada paciente. Tener suficientes mediciones previas a una fecha índice (diagnóstico de epilepsia), me permitiría explorar la posibilidad de implementar una pregunta de la modalidad B) Modelo predictivo clínico. Por ejemplo, probabilidades predictivas del desenlace fatal de los pacientes a partir de observaciones cardíacas o predicción de síntomas experimentados a partir de un cambio de medicamento. Esto lo consideraré como un extra opcional, que dependerá de qué tantas mediciones alrededor de la fecha índice pueda generar y principalmente de qué tanto tiempo me tome responder las preguntas relacionadas con la modalidad A).
 
 __Entregable esperado:__
-	Repositorio con historial de commits realista
-	Repositorio realista con herramientas aprendidas en el curso: 
-		main protegida, pre-commits, github actions, .gitignore
-	Workflow de github actions con CI, Pytest, Ruff
-	Análisis implementado a modo de paquetería, con entorno containerizado utilizando docker.
-	Definición de cohortes en SQL sobre OMOP
-	Diccionario de datos
-	Sesión de limitaciones
-	Delcaración de uso de agentes de ia
-	Cero credenciales y cero datos identificables en el repositorio 
+- Repositorio con historial de commits realista
+- Repositorio realista con herramientas aprendidas en el curso: main protegida, pre-commits, github actions, .gitignore
+- Workflow de github actions con CI, Pytest, Ruff
+- Análisis implementado a modo de paquetería, con entorno containerizado utilizando docker.
+- Definición de cohortes en SQL sobre OMOP
+- Diccionario de datos
+- Sesión de limitaciones honesta
+- Delcaración de uso de agentes de ia
+- Cero credenciales y cero datos identificables en el repositorio 
 
 __Para reproducir el análisis:__
 
