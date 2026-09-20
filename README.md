@@ -3,6 +3,7 @@ Abrego Islas Iván
 Proyecto final Ciencia de Datos
 
 __Modalidad:__ A) Estudio de caracterización/epidemiológico.
+
 Datos: Simulados, a partir de Synthea (https://synthetichealth.github.io/synthea/). También buscaré utilizar ETL-Synthea para cargar los datos a un esquema OMOP CDM.
 
 __Pregunta:__
@@ -28,6 +29,7 @@ __Para reproducir el análisis:__
 Se recomienda trabajar con un administrador de paqueterías (e.g. Anaconda navigator). Es necesario contar con Java Development Kit (JDK) 17+. 
 
 Ejemplo de instalación:
+
 conda install -c conda-forge openjdk=25.0.2
 
 Confirmar que se se cuenta con JDK 17+ mediante:
